@@ -8,4 +8,4 @@ This is a Python script that automates the work of sorting out participants pres
 
 ##How to use:
 1. Drop your .csv file downloaded during the meeting into the main directory.
-2. Run the program and follow the step-by-step procedure on it.
+2. Run the "MS Attendance.py" program and follow the step-by-step procedure on it.
